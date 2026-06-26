@@ -33,7 +33,7 @@ An automated candidate ranking and scoring engine optimized for **Information Re
 
 3. **Run the ranker:**
    ```bash
-   python main.py
+   python code.py
    ```
 
 4. **Output:**
